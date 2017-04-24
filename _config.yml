@@ -54,7 +54,7 @@ heroImage: "hero.jpg"
 heroTitle: "Takuo & Elisa's Wedding"
 eventDate: "July 8th, 2017"
 typeoutTextValues: '""'
-typeoutFallback: "Season"
+#typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
