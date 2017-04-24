@@ -51,13 +51,13 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Takuo & Elisa's Wedding"
+heroTitle: "Takuo & Elisa's"
 eventDate: "July 8th, 2017"
-typeoutTextValues: '""'
+typeoutTextValues: '"Wedding", "@", "Hawaii", "on", "July 8th"'
 #typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Register"}
+ #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
