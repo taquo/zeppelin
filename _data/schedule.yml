@@ -2,7 +2,7 @@
   date: "2017-7-7"
   dateReadable: "July 7th"
   tracks: 
-    - {title: "", color: "#90be4e"}
+    - {title: "Day before Wedding / 前日", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "19:00",
@@ -13,7 +13,7 @@
   date: "2017-7-8"
   dateReadable: "July 8th"
   tracks: 
-    - {title: "", color: "#90be4e"}
+    - {title: "Wedding Day / 当日", color: "#90be4e"}
   timeslots:
     - {
         startTime: "10:00",
