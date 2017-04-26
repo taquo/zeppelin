@@ -6,7 +6,8 @@ layout: compress
 <html lang="en">
 
 {% include head.html %}
-
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDnLuK_A-OFThnEr0Z16JFgLSi8opKCU4c&callback=initMap"
+  type="text/javascript"></script>
 <body>
     <div id="preloader" class="preloader">
         <div class="loader-gplus"></div>
@@ -92,7 +93,7 @@ layout: compress
                         {% endif %}
                     {% endfor %}
                 ];
-                rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
+                rockstarSpeakers.sort(function() {return 0.5 });
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
                         count = Math.min({{ site.rockstarSpeakersCount }}, rockstarSpeakers.length),
