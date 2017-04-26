@@ -11,27 +11,27 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Takuo & Elisa's Wedding"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+email: "takuo.suzuki@gmail.com"
+description: ""
 baseurl: "/zeppelin"
 url: "https://taquo.github.io"
 siteVerification: "AIzaSyDnLuK_A-OFThnEr0Z16JFgLSi8opKCU4c"
 
 
 # Organizer Info
-organizerName: "GDG Lvivs"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "Takuo & Elisa"
+organizerAlternateName: "Takuo & Elisa"
+organizerDescription: ""
+organizerEmail: "takuo.suzuki@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+metaKeywords: ""
+twitterAccount: ""
+socialImageSrcGooglePlus: ""
+socialImageSrcTwitter: ""
+socialImageSrcFacebook: ""
 
 
 # Navigation
@@ -163,28 +163,6 @@ ticketsOffers:
   validThrough: "2014-10-23T23:59"
   soldOut: true
   soldOutText: "Sold Out"
-
-# Footer
-socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
-footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
- -
-  title: "Contacts"
-  links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
-
 
 
 # Speakers List Block
