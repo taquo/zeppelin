@@ -1,13 +1,24 @@
 - 
+  date: "2017-7-7"
+  dateReadable: "July 7th"
+  tracks: 
+    - {title: "", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "19:00",
+    	endTime: "21:00",
+    	sessionIds: [001]
+    }
+- 
   date: "2017-7-8"
   dateReadable: "July 8th"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
+    - {title: "", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002]
+        startTime: "10:00",
+        endTime: "10:45",
+        sessionIds: [002]
     }
     - {
         startTime: "11:00",
@@ -15,7 +26,7 @@
         sessionIds: [003]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [004]
+        startTime: "12:00",
+        endTime: "11:45",
+        sessionIds: [004]
     }
