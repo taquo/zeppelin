@@ -75,7 +75,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 2
-rockstarSpeakersTitle: "Presented by"
+rockstarSpeakersTitle: "Your Host"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -95,7 +95,7 @@ mapCenterCoordinates: "21.277846, -157.752384"
 mapMobileCenterCoordinates: "21.277846, -157.752384"
 
 # Venue Block
-venueBlockTitle: "Venue/会場"
+venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
