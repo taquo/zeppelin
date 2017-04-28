@@ -55,7 +55,7 @@ heroButtons:
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About Wedding/挙式について"
+aboutTitle: "About Wedding"
 aboutBlock:
  - {title: "Wedding", image: "conference.jpg", text: "Insrt text" }
  - {title: "Beach", image: "workshop.jpg", text: "insert text" }
@@ -70,7 +70,7 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news/最新ニュース"
+latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -79,7 +79,7 @@ rockstarSpeakersTitle: "Presented by"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location/場所"
+locationBlockTitle: "Location"
 eventLocationName: "Iris Ocean Front Garden Villa"
 eventLocationLink: "http://www.hii.jp/hawaii/hoi/"
 eventStreetAddress: "5253 Kalanianaole Hwy"
@@ -105,7 +105,7 @@ venueFeatures: [""]
 
 
 # Partners Block
-organizersTitle: "Host/ホスト"
+organizersTitle: "Host"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
