@@ -16,8 +16,8 @@
     - {title: "Wedding Day / 当日", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "10:00",
-        endTime: "10:45",
+        startTime: "15:00",
+        endTime: "15:30",
         sessionIds: [002]
     }
     - {
