@@ -131,7 +131,7 @@ findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
 logisticsMapCenterCoordinates: "35.728217, 139.735193"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapMobileCenterCoordinates: "35.728217, 139.735193"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
