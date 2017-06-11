@@ -51,7 +51,7 @@ eventDate: "July 8th, 2017"
 typeoutTextValues: '" Wedding", " @", " Hawaii", " on", " July 8th"'
 #typeoutFallback: "Season"
 heroButtons:
- - {link: "https://goo.gl/dd4cTN", text: "Register for Dinner"}
+ - {link: "https://goo.gl/dd4cTN", text: "Register for Pre Wedding Dinner on July 7th"}
 
 # About Block
 aboutTitle: "About Wedding"
